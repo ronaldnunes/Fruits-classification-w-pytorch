@@ -40,8 +40,10 @@ Para atender ao requisito de exibição de predições, adicionamos uma função
 2. As predições para imagens de teste serão exibidas automaticamente ao final.
 
 ## Resultados
-- **CNN Personalizada**: Acurácia de X% (ajustar com os resultados reais).
-- **ResNet Pré-treinada**: Acurácia de X% (ajustar com os resultados reais).
+- **CNN Personalizada**: Acurácia de 100% (ajustar com os resultados reais).
+- **ResNet Pré-treinada**: Acurácia de 100% (ajustar com os resultados reais).
+
+Ambos os modelos conseguiram atingir uma improvável acurácia de 100%, isso foi possível devido ao fato de estarmos trabalhando com apenas 3 classes diferentes, reduzindo bastante a complexidade do problema. Porém, o modelo ResNet atingiu valores de Loss bem menores do que da minha CNN personalizada, o que já era esperado, já que é um modelo muito mais robusto e com muito mais parâmetros. 
 
 
 
