@@ -29,21 +29,12 @@ O dataset está organizado em duas pastas principais:
 - **Otimizador**: Adam.
 - **Métrica**: Acurácia no conjunto de validação.
 
-Ambos os modelos atingiram uma acurácia acima de 70%, com melhorias incrementais após ajustes nos hiperparâmetros.
-
-## Visualização de Predições
-Para atender ao requisito de exibição de predições, adicionamos uma função para selecionar um subconjunto de imagens de teste, exibir as imagens e suas predições. Consulte o código na seção **"Predições"** do notebook.
-
-## Execução
-
-1. Execute o notebook `FruitsCNN.ipynb` para treinar o modelo e gerar os resultados.
-2. As predições para imagens de teste serão exibidas automaticamente ao final.
 
 ## Resultados
-- **CNN Personalizada**: Acurácia de 100% (ajustar com os resultados reais).
-- **ResNet Pré-treinada**: Acurácia de 100% (ajustar com os resultados reais).
+- **CNN Personalizada**: Acurácia de 100%.
+- **ResNet Pré-treinada**: Acurácia de 100%.
 
-Ambos os modelos conseguiram atingir uma improvável acurácia de 100%, isso foi possível devido ao fato de estarmos trabalhando com apenas 3 classes diferentes, reduzindo bastante a complexidade do problema.
+Ambos os modelos conseguiram atingir uma improvável acurácia de 100%, isso só foi possível devido ao fato de estarmos trabalhando com apenas 3 classes diferentes, reduzindo bastante a complexidade do problema.
 
 
 
