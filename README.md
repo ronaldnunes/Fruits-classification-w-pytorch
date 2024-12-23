@@ -1,6 +1,6 @@
 # Fruits-classification-w-pytorch
 
-Este repositório contém um projeto de classificação de imagens utilizando redes neurais convolucionais (CNNs) para classificar frutas no **Fruits 360 Dataset** entre 3 categorias diferentes, foram escolhidas: Maçã, Tomate e Banana.
+Este repositório contém um projeto de classificação de imagens utilizando redes neurais convolucionais (CNNs) em pytorch para classificar frutas no **Fruits 360 Dataset** entre 3 categorias diferentes, foram escolhidas: Maçã, Tomate e Banana.
 
 ## Estrutura do Projeto
 
