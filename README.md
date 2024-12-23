@@ -21,13 +21,11 @@ O dataset está organizado em duas pastas principais:
 ## Modelos Implementados
 
 ### 1. CNN Personalizada
-### 2. ResNet Pré-treinada
-
-## Treinamento e Avaliação
-
 - **Loss Function**: Cross-Entropy Loss.
 - **Otimizador**: Adam.
-- **Métrica**: Acurácia no conjunto de validação.
+### 2. ResNet Pré-treinada
+- **Loss Function**: Cross-Entropy Loss.
+- **Otimizador**: Adam.
 
 
 ## Resultados
